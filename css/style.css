@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	align-content: center;
+
+	font-size: 15px;
+	color: #000000;
+}
+
+#hero{
+	background-image:url("../img/slide-galaxy.jpg");
+	padding-bottom: 40%;
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+#hero h1{
+	align-content: center;
+	font-size: 80px;
+	margin-top: 20px;
+	padding-top: 10%;
+	color: #FFFFFF;
+}
+#Qled{
+	padding: 5%;
+}
+#Qled h1{
+	color: #000000;
+	padding-top: 12%;
+	font-weight: 40px;
+}
+#Qled p{
+	color: #000000;
+	align-content: center;
+}
+.btn-naranja{
+	color: #000000;
+	margin-top: 5%;
+	padding: 1%;
+	padding-right: 10%;
+	padding-left:10%;
+	border-color: #000000
+	
+}
+
+#twin h1{
+	color: #000000;
+	padding-top: 20%;
+	font-weight: 40px;
+	font-size: 100;
+}
+#twin p{
+	color: #000000;
+	align-content: center;
+	padding-top: 10%;
+}
+#twin{
+	background-color: #E3DBDB;
+}
+#switch h1{
+	color: #000000;
+	padding-top: 12%;
+	font-weight: 40px;
+	font-size: 45px;
+	text-align: left;
+}
+#switch{
+	padding: 9%;
+}
+#frame h1{
+	color: #000000;
+	padding-top: 20%;
+	font-weight: 40px;
+	font-size: 100;
+}
+#frame{
+	background-color: #E3DBDB;
+}
+.icons{
+	font-size: 50px;
+	color: #000000;
+}
+
+#gear h1{
+	color: #000000;
+	padding-top: 12%;
+	font-weight: 40px;
+	font-size: 45px;
+	text-align: left;
+}
+#gear{
+	padding: 9%;
+}
+#footer{
+	color: #000000;
+	background-color: #E3DBDB;
+}
